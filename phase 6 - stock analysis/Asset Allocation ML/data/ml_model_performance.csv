@@ -1,0 +1,4 @@
+Model,Train R²,Test R²,Train MSE,Test MSE
+RandomForest,0.9996,0.9969,0.0218,0.1796
+GradientBoosting,1.0,0.9968,0.0001,0.1825
+NeuralNetwork,0.8618,0.8551,0.9014,1.2118

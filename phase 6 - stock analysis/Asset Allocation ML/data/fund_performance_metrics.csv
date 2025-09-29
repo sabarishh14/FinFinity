@@ -1,0 +1,6 @@
+Fund,Expected Return (%),Portfolio Risk (%),Sharpe Ratio,Risk Score
+Conservative Investors,5.81,4.7,0.811,2.42
+Pre-Retirees,5.98,5.01,0.796,2.39
+Balanced Investors,6.99,5.55,0.898,3.23
+Second Chance Retirees,7.13,6.19,0.829,3.54
+Aggressive Investors,7.47,6.92,0.79,4.27

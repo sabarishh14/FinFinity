@@ -1,0 +1,24 @@
+Segment,Rank,Ticker,Company_Name,Sector,Risk_Level,Annual_Return,Volatility,Allocation_Target,Segment_Score,Investment_Rationale
+Conservative Investors,1,JPM,JPMorgan Chase & Co.,Financial Services,Low,39.9%,23.2%,70%,0.42,Strong historical returns; Moderate risk characteristics; Economic cycle exposure with dividend potential
+Conservative Investors,2,MSFT,Microsoft Corporation,Technology,Low-Medium,32.9%,23.6%,30%,0.35,Strong historical returns; Moderate risk characteristics; Growth and innovation exposure
+Conservative Investors,3,BRK-B,Berkshire Hathaway Inc.,Financial Services,Low,18.8%,16.0%,70%,0.326,Strong historical returns; Moderate risk characteristics; Economic cycle exposure with dividend potential
+Conservative Investors,4,ABBV,AbbVie Inc.,Healthcare,Low,15.9%,23.0%,70%,0.243,Strong historical returns; Moderate risk characteristics; Defensive characteristics with growth potential
+Balanced Investors,1,META,Meta Platforms Inc.,Technology,Medium,94.0%,38.6%,40%,0.459,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Balanced Investors,2,AMZN,Amazon.com Inc.,Technology,Medium,41.0%,31.9%,40%,0.337,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Balanced Investors,3,MSFT,Microsoft Corporation,Technology,Low-Medium,32.9%,23.6%,40%,0.317,Strong historical returns; Moderate risk characteristics; Growth and innovation exposure
+Balanced Investors,4,GOOGL,Alphabet Inc.,Technology,Medium-High,45.7%,30.4%,20%,0.316,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Balanced Investors,5,WFC,Wells Fargo & Co.,Financial Services,Low-Medium,33.0%,28.8%,40%,0.276,Strong historical returns; Economic cycle exposure with dividend potential; Large-cap stability
+Aggressive Investors,1,NVDA,NVIDIA Corporation,Technology,High,153.0%,51.4%,30%,3.214,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Aggressive Investors,2,META,Meta Platforms Inc.,Technology,Medium,94.0%,38.6%,20%,1.545,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Aggressive Investors,3,NFLX,Netflix Inc.,Technology,Medium-High,68.1%,33.8%,50%,1.004,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Aggressive Investors,4,GOOGL,Alphabet Inc.,Technology,Medium-High,45.7%,30.4%,50%,0.66,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Pre-Retirees,1,JPM,JPMorgan Chase & Co.,Financial Services,Low,39.9%,23.2%,80%,0.42,Strong historical returns; Moderate risk characteristics; Economic cycle exposure with dividend potential
+Pre-Retirees,2,MSFT,Microsoft Corporation,Technology,Low-Medium,32.9%,23.6%,20%,0.35,Strong historical returns; Moderate risk characteristics; Growth and innovation exposure
+Pre-Retirees,3,BRK-B,Berkshire Hathaway Inc.,Financial Services,Low,18.8%,16.0%,80%,0.326,Strong historical returns; Moderate risk characteristics; Economic cycle exposure with dividend potential
+Pre-Retirees,4,ABBV,AbbVie Inc.,Healthcare,Low,15.9%,23.0%,80%,0.243,Strong historical returns; Moderate risk characteristics; Defensive characteristics with growth potential
+Pre-Retirees,5,V,Visa Inc.,Financial Services,Low,20.2%,18.5%,80%,0.222,Strong historical returns; Moderate risk characteristics; Economic cycle exposure with dividend potential
+Second Chance Retirees,1,NVDA,NVIDIA Corporation,Technology,High,153.0%,51.4%,20%,3.214,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Second Chance Retirees,2,META,Meta Platforms Inc.,Technology,Medium,94.0%,38.6%,40%,1.545,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Second Chance Retirees,3,NFLX,Netflix Inc.,Technology,Medium-High,68.1%,33.8%,40%,1.004,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Second Chance Retirees,4,AMZN,Amazon.com Inc.,Technology,Medium,41.0%,31.9%,40%,0.672,Strong historical returns; Growth and innovation exposure; Large-cap stability
+Second Chance Retirees,5,GOOGL,Alphabet Inc.,Technology,Medium-High,45.7%,30.4%,40%,0.66,Strong historical returns; Growth and innovation exposure; Large-cap stability
